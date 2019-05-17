@@ -1,0 +1,11 @@
+Team name: toxic-filter
+
+Student #1: Sandhya Chandramohan
+Student #1 ID: 61167891
+Student #1 email: sandhyc@uci.edu
+
+Student #2: Naveena Kannan
+Student #2 ID: 50964330
+Student #2 email: nrkannan@uci.edu
+
+Dataset: Toxic Comment Challenge
